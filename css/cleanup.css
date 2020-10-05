@@ -20,4 +20,4 @@
   display: none;
 }
 
-body #wall .parent 
+body #wall .parent div:lastchild
